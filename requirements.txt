@@ -1,0 +1,9 @@
+streamlit
+groq
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+pdfplumber
+python-docx
+python-pptx
+numpy
